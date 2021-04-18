@@ -12,7 +12,7 @@ module.exports = {
   ],
   search: {
     indexName: "docs-engine-example",
-    apiKey: "1c01741ca77aa50a9fafab941a3fa585",
+    apiKey: "3c8cda4b678b379ba006168d8e466108",
     algoliaOptions: {
       facetFilters: ""
     },
