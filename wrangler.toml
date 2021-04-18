@@ -3,6 +3,12 @@ type = "webpack"
 account_id = "465876a47384341612732d0e6a113a08"
 workers_dev = true
 
+[env.production]
+workers_dev = false
+account_id = "465876a47384341612732d0e6a113a08"
+zone_id = "59c18b3c01e7f4b633bea2db4d10fab5"
+route = "https://docs.ideas.cf/*"
+
 [site]
-bucket = ".docs/public/" # Add pathPrefix here if necessary
+bucket = ".docs/public/"
 entry-point = ".docs/workers-site"
