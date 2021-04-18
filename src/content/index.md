@@ -17,7 +17,7 @@ Check out [another page](/another-page).
 ## Running locally
 
 ```sh
-~/ $ git clone git@github.com:adamschwartz/docs-engine-example.git
+~/ $ git clone git@github.com:waisimon/docs-engine-example.git
 ~/ $ cd docs-engine-example
 ~/docs-engine-example $ npm install
 ~/docs-engine-example $ npm run bootstrap && npm run develop
