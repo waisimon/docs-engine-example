@@ -11,8 +11,8 @@ module.exports = {
     }
   ],
   search: {
-    indexName: "",
-    apiKey: "",
+    indexName: "docs.ideas.cf",
+    apiKey: "94fe2340ff421db9ba8ce1dbb01f0333",
     algoliaOptions: {
       facetFilters: ""
     },
