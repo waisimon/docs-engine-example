@@ -1,6 +1,6 @@
 name = "docs-engine-example"
 type = "webpack"
-account_id = "1e1395dd88464c726799aac6c1be4a71" # adam.workers.dev
+account_id = "465876a47384341612732d0e6a113a08"
 workers_dev = true
 
 [site]
